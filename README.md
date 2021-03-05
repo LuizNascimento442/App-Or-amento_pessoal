@@ -6,5 +6,6 @@
  
  ##imagens do projeto
  
-![app orçamento pessoal]()
+![app orçamento pessoal](img/app.jpeg)
+![app orçamento pessoal](img/app2.jpeg)
 
