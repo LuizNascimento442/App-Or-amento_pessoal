@@ -11,6 +11,10 @@
 
 #Tecnologias utilizadas
 
+JavaScript
+HTML
+CSS
+
 
 
 
