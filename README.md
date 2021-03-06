@@ -15,8 +15,6 @@ JavaScript
 HTML
 CSS
 
-## Link para testar o App
-https://justbeamit.com/pr8nj
 
 
 
