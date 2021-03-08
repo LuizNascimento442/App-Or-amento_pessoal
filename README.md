@@ -8,6 +8,9 @@
  
 ![app orçamento pessoal](img/app.jpeg)
 ![app orçamento pessoal](img/app2.jpeg)
+![app orçamento pessoal](img/app3.jpeg)
+![app orçamento pessoal](img/app4.jpeg)
+![app orçamento pessoal](img/app5.jpeg)
 
 #Tecnologias utilizadas
 
