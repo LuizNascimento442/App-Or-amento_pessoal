@@ -12,6 +12,10 @@
 ![app orçamento pessoal](img/app4.jpeg)
 ![app orçamento pessoal](img/app5.jpeg)
 
+
+## Link para testar o APP
+<https://awesome-haibt-57608d.netlify.app>
+
 #Tecnologias utilizadas
 
 JavaScript
